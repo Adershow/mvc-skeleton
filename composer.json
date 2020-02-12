@@ -1,14 +1,12 @@
 {
   "name": "aderson/mvc-skeleton",
-  "description": "Um esqueleto para projetos futuros",
+  "description": "A skeleton to help with future projects",
   "type": "project",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Adershow",
-      "email": "adersonrs@gmail.com"
-    }
-  ],
+  "authors": [{
+    "name": "Adershow",
+    "email": "adersonrs@gmail.com"
+  }],
   "require": {
     "bramus/router": "~1.4",
     "illuminate/database": "^6.15"
